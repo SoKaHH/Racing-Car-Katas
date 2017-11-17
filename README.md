@@ -1,6 +1,12 @@
 Racing Car Katas
 =================
 
+# The Situation
+
+You just started your new job as a developer at the Ferrari Formula1 team. But you’re not really convinced by the legacy code-base. Now you want to write unit tests for them, and that is harder than it needs to be. The code snippet fails to follow one or more of the SOLID principles.
+
+# Challenge
+
 In this repository you'll find starting code for five distinct problems. They could be code you inherited from a legacy code-base. Now you want to write unit tests for them, and that is harder than it needs to be. All of the code snippets fail to follow one or more of the SOLID principles.
 
 For each exercise, you should identify which SOLID principles are not being followed by the code. There is only one class you are interested in writing tests for right now. As a first step, try to get some kind of test in place before you change the class at all. If the tests are hard to write, is that because of the problems with SOLID principles?
